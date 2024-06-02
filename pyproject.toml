@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "customer support"
+version = "0.1.0"
+description = "Repro LangGraph example project https://langchain-ai.github.io/langgraph/tutorials/customer-support/customer-support/ with local LLM server"
+authors = ["GuanyiLi-Craig <craig.guanyi.li@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+packages = [
+    { include = "customer_support" },
+]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+langgraph = "^0.0.55"
+langchain-community = "^0.2.1"
+tavily-python = "^0.3.3"
+pandas = "^2.2.2"
+openai = "^1.30.4"
+requests = "^2.32.2"
+langchain-openai = "^0.1.7"
+grandalf = "^0.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
