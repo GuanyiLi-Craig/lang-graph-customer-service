@@ -4,6 +4,7 @@ Repro the example - [customer service](https://langchain-ai.github.io/langgraph/
 
 
 ### The Agent Design Pattern
+![image](https://github.com/GuanyiLi-Craig/lang-graph-customer-service/assets/11020337/e3fa665c-6929-432d-b21d-0bcaabb2c0ab)
 
 
 ### The Customer Service Agents Graph
