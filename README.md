@@ -8,6 +8,7 @@ Repro the example - [customer service](https://langchain-ai.github.io/langgraph/
 
 
 ### The Customer Service Agents Graph
+![image](https://github.com/GuanyiLi-Craig/lang-graph-customer-service/assets/11020337/0fbe93ad-78e5-4408-9c0b-f1dd80c320a5)
 
 
 ### Project Setup in Ubuntu
